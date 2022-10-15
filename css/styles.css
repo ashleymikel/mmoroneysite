@@ -2,6 +2,8 @@
     font-family:"Cambo", serif;
     color:#feeca8;
     font-size: 5vw;
+    margin-left: 1vw;
+    margin-top: 2vw;
 }
 
 .navbar {
@@ -28,4 +30,9 @@ body {
 
 .card-header {
     background-color: #fff1f0;
+    font-family:"Poppins", sans serif;
+}
+
+#tourDateInfo {
+    font-family:"Poppins", sans serif;
 }
