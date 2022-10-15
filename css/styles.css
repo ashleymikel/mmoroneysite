@@ -16,3 +16,10 @@ h2 {
 body {
     background-color: #a82715;
 }
+
+#mainName {
+    color:#feeca8;
+    font-size:50px;
+    padding: 10px;
+
+}
